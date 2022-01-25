@@ -1,2 +1,2 @@
-# ia_study
+# INTELLIGENCE AUTOMATION
 Repository for IA (intelligence automation) studies.
